@@ -105,7 +105,8 @@ Nossa missão é criar uma plataforma bancária digital que ofereça simplicidad
 
 
 # Testando a API
-    Para testar a API, você pode usar o Insomnia, que é uma plataforma para testar e documentar APIs.
+    Para testar a API, você pode usar o Insomnia, que é uma plataforma para testar e documentar APIs. Que pode ser baixada no link abaixo: 
+    https://updates.insomnia.rest/downloads/windows/latest?app=com.insomnia.app&source=website 
     
 
 
