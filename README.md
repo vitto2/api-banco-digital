@@ -39,27 +39,35 @@ Seja bem-vindo ao futuro financeiro com o Cubos Bank!
 Nossa missão é criar uma plataforma bancária digital que ofereça simplicidade, segurança e eficiência aos nossos clientes. Neste projeto inicial, você construirá as seguintes funcionalidades-chave:
 
 - **Criar Conta Bancária**: Permitirá aos clientes criar uma nova conta bancária.
+- 
  ![cria-conta](https://github.com/vitto2/api-banco-digital/assets/47305804/8fee3c17-c6b5-4da2-a801-6bbaf3026d9e)
 
 
 - **Atualizar Dados do Usuário da Conta Bancária**: Permitirá aos clientes atualizar suas informações pessoais associadas à conta.
+- 
     ![atualiza-info-conta](https://github.com/vitto2/api-banco-digital/assets/47305804/3de5a600-3361-4e69-aa84-d9796c447dd4)
 
+
 - **Excluir Conta Bancária**: Possibilitará aos clientes encerrar sua conta bancária.
+- 
 
 - **Listar Contas Bancárias**: Facilitará a visualização de todas as contas bancárias existentes.
+- 
     ![lista-todas-contas](https://github.com/vitto2/api-banco-digital/assets/47305804/6de96831-dca1-48e2-a94f-ab1793ea22f7)
 
 
 - **Depositar em uma Conta Bancária**: Permitirá aos clientes depositar dinheiro em suas contas.
+- 
   ![deposita-valor](https://github.com/vitto2/api-banco-digital/assets/47305804/d97b0542-048e-4f70-bb26-c9b6130b2522)
 
 
 - **Sacar de uma Conta Bancária**: Facilitará a retirada de fundos de uma conta.
+- 
     ![saca-valor](https://github.com/vitto2/api-banco-digital/assets/47305804/c4c67d40-b2e4-4ec3-b403-3895b1c51525)
 
  
 - **Transferir Valores entre Contas Bancárias**: Possibilitará a transferência segura de dinheiro entre contas bancárias.
+- 
     ![transfere-valor](https://github.com/vitto2/api-banco-digital/assets/47305804/bd6cdeed-9f3e-46b1-857e-967d33480d4f)
 
 
@@ -69,6 +77,7 @@ Nossa missão é criar uma plataforma bancária digital que ofereça simplicidad
 
 
 - **Emitir Extrato Bancário**: Facilitará a obtenção de um registro detalhado de todas as transações em uma conta.
+- 
      ![extrato](https://github.com/vitto2/api-banco-digital/assets/47305804/62f1a3db-e9ba-4fab-9e9e-89ebb6cc9cab)
 
 
